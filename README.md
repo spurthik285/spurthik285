@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/spurthi-karoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spurthi-karoshi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/spurthikaroshi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/spurthikaroshi21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/spurthikaroshi285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spurthikaroshi285/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/spurthi-karoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spurthi-karoshi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/spurthikaroshi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="spurthikaroshi21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/spurthikaroshi285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spurthikaroshi285" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
